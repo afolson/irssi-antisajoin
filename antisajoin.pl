@@ -27,7 +27,7 @@ my %IRSSI = (
   contact		=> 'amanda@incredibl.org',
   name		=> 'irssi-antisajoin',
   uri		=> 'https://github.com/afolson/irssi-antisajoin',
-  description	=> 'An irssi script to part you from channels you're sajoined to.',
+  description	=> 'An irssi script to part you from channels you\'re sajoined to.',
 	license		=> 'GPL',
 );
 
